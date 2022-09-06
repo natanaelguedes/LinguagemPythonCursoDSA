@@ -1,5 +1,5 @@
 
-
+#abre o EXECUTAR DO WINDOWS E digita CMD e tecla enter  
 #como instalar  JupyterNotebook
 
 
